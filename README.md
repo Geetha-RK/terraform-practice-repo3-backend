@@ -1,1 +1,1 @@
-# This repo is created using terraform resource in dev
+# This backend - python repo is created using terraform resource in dev
