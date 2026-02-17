@@ -1,2 +1,2 @@
-# This backend - python repo is created using terraform resource in dev.
-The infra was last modified by Geetha Rashinkar Kumar 
+# This is a dev python repository is for backend developers.
+                         The infra was last modified by Geetha Rashinkar Kumar 
