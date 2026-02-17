@@ -1,2 +1,1 @@
-# terraform-practice-repo3-backend
-Code terraform in backend
+# This repo is created using terraform resource in dev
